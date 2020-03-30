@@ -1,6 +1,6 @@
 # Facial Landmark Detection Using CNN
 
-![](Pytorch_logo.png)
+![](Pytorch_logo.png)   ![](Output.png)
 
 This is my work on project #1 on the Udacity nano degree of Computer Vision.
 
