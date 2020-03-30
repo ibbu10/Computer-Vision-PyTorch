@@ -10,5 +10,7 @@ Data set used is Youtube's Face Database.
 https://www.cs.tau.ac.il/~wolf/ytfaces/
 
 Please make sure you have conda installed in order to run all the code locally.
+Also if needed refere to https://arxiv.org/pdf/1710.00977.pdf in order to understand why these hyper parameters were used.
+Training on CPU might take up to 6 hours :)
 
 Cheers! 
